@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+   <html lang="en">
+   <head>
+     <link rel="stylesheet" type="text/css" href="mypersonalwebsite.css">
+     <script type="text/javascript"src="bootstrap.js"></script>
+     <title>My Personal Website</title>
+     <meta charset="UTF-8">
+     <meta name="description" content="This is my personal website homepage">
+   </head>
+   <body>
+     <div class="nav-menu">
+       <a class="active" href"index.html>Home</a>
+       <a href="about-me.html"> About Me</a>
+       <a href="contact-me.html"> Contact Me</a>
+       <a href="social media.html"> Social Media Platforms</a>
+   </body>
+   </html>

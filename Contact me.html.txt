@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact 
+  me</title>
+</head>
+<body>
+  <div class="container mt-5">
+    <h1> Contact Me !</h1>
+    <form class="row g-3" action="https://formsubmit.co/mia.shabazz9@gmail.com" method="POST">
+      <div class="col-md-6">
+        <label for="firstname" class="form-label"> First Name </label>
+        <input type="text" class="form-control" name="name" id="firstname" required>
+      </div>
+      <div class="col-md-6">
+        <label for="lastname" class="form-label"> Last Name</label>
+        <input type="text" class="form-control" name="lastName"id="lastname" required>
+      </div>
+      <div class="col-md-8">
+        <label for="emailInfo" class="form-label"> E-mail</label>
+        <input type="text" class="form-control" name="email" id="emailInfo" required>
+      </div>
+      <div class="col-md-4">
+        <label for="phone number" class="form-label" name="phone"> Phone Number</label>
+        <input type="text" class="form-control" id="phonenumber" placeholder="+1(888)555-7767">
+      </div>
+       <label for="subject">Comments</label>
+    <textarea class="form-control"  id="comments" name="comments, questions, etc" rows="3" required></textarea>
+
+
+    <input type="submit" value="Submit">
+    </form>
+  </div>
+</body>
+</html>
