@@ -107,7 +107,7 @@
           <img src="journey.jpg" class="card-img-top" alt="journey">
           <div class="card-body">
             <h5 class="card-title">Current Journey</h5>
-            <p class="card-text">I currently work at RIC1 as an Each Receive Process Assistant and I am enrolled in Amazon's Career Choice Program. The program that I am enrolled in is Software Development through Corelation One. At times it can be overwhelming but being able to learn so many different aspects of creating a website is what keeps me interested. My favorite part that I learned so far is adding background colors to your webpage, inserting images and an unordered list all in HTML.</p>
+            <p class="card-text">I currently work at RIC1 as a FHD Pack Process Assistant and I am enrolled in Amazon's Career Choice Program. The program that I am enrolled in is Software Development through Corelation One. At times it can be overwhelming but being able to learn so many different aspects of creating a website is what keeps me interested. My favorite part that I learned so far is adding background colors to your webpage, inserting images and an unordered list all in HTML.</p>
       </div>  
     </div>
   </div>
